@@ -1,0 +1,14 @@
+<!Doctype html>
+<html>
+ <head> 
+ <meta charset=uft-8¨>	
+ <title>Data Tool  </title>
+ <link rel=¨stylesheet¨ href=¨databasestyle.css¨
+</head>
+ <body>
+ <header><h1>Database</h1></header>
+ <a href=retrieval.html><strong>Retrieve Data</strong></a>
+ <a href=data)><strong>Data Analysis</strong></a>
+
+ </body>
+ </html>
